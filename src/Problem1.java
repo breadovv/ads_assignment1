@@ -15,4 +15,18 @@ public class Problem1 {
         System.out.println(min);
 
     }
+    /**
+     * This method finds the minimum element in an array.
+     * It uses an iterative approach by scanning through all elements.
+     *
+     * Time complexity: O(n), where n is the number of elements in the array.
+     * - The loop runs exactly n times, making the complexity linear.
+     * - Each iteration performs a constant-time operation (comparison and assignment).
+     *
+     * Space complexity: O(n), since an array of size n is created to store elements.
+     *
+     * @param n The number of elements in the array.
+     * @return The minimum value in the array.
+     */
+
 }

@@ -9,7 +9,7 @@
 
 // In 5th Problem time complexity is O(2^n) because it follows this pattern: F(n)=F(n−1)+F(n−2)
 
-// In 6th Problem time complexity is O(n) because it calls itself n times
+// In 6th Problem time complexity is O(b) because it calls itself n times
 
 // In 7th Problem time complexity is O(n) because recursion calls itself n times
 
